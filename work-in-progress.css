@@ -1,0 +1,13 @@
+h1, h2{
+    text-align:center;
+    color:yellow;
+    font-size: 4em;
+}
+body{
+    background-image:url(https://www.vertical-leap.uk/wp-content/uploads/2016/11/tools-background-1400x800.jpg);
+    background-size:100%;
+    background-position: bottom;
+}
+p{
+    color:green;
+}
